@@ -15,6 +15,11 @@ Start with one of the options below.
 Open the solution in Visual Studio and 
 press "F5" to run the webapp.
 
+#### Option 2
+Select the following GitHub Pages link.
+<br/>
+https://git4m2.github.io/MCSD_70-480_Chpt12_Exercise1_CanvasSnapshooter/CanvasSnapshooter/CanvasPage.html
+
 You should be able to manually adjust the width of the webpage and 
 notice that the image automatically resizes.
 <br/><br/>
