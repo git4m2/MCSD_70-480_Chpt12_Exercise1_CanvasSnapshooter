@@ -19,9 +19,9 @@ press "F5" to run the webapp.
 Select the following GitHub Pages link.
 <br/>
 https://git4m2.github.io/MCSD_70-480_Chpt12_Exercise1_CanvasSnapshooter/CanvasSnapshooter/CanvasPage.html
+<br/>
 
-You should be able to manually adjust the width of the webpage and 
-notice that the image automatically resizes.
+You can capture a frame from the video by clicking the Snapshot button.
 <br/><br/>
 
 ## Authors

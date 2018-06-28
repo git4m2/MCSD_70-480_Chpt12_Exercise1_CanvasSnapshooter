@@ -8,6 +8,12 @@ All changes to this project will be documented in this file.
 * N/A
 <br/><br/>
 
+## v1.2.1
+### Date: 2018-06-28
+#### Modified Getting Started
+* Changed the instructions within the README.md file.
+<br/><br/>
+
 ## v1.2.0
 ### Date: 2018-06-28
 #### Added GitHub Pages
